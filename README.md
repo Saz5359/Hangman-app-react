@@ -6,6 +6,9 @@ This project is a hangman game app. The game was created using React and is a ga
 
 I am a gamer and love playing games so I wanted to create a game of my own since I am a beginner and have learned to react from a boot camp I decided to create a hangman game. Hangman is a classic childhood game along with Brick Breaker and the Snake game which made creating this app a fun and nogastic experience.
 
+## Deployment
+App is live here: https://saz5359.github.io/Hangman-app-react/
+
 ## Features
 
 - This game was created using react
